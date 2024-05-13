@@ -5,3 +5,5 @@ from .models import Vendor
 admin.site.register(Vendor)
 
 
+
+

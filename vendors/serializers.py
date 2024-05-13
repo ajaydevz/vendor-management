@@ -7,4 +7,3 @@ class VendorSerializer(serializers.ModelSerializer):
         model = Vendor
         fields = '__all__' 
 
-
